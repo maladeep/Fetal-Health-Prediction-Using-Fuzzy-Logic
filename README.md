@@ -21,8 +21,8 @@ To replicate the study and run the fuzzy logic system:
 
 ### Clone the repository:
 `git clone https://github.com/maladeep/Fetal-Health-Prediction-Using-Fuzzy-Logic.git`
-`cd Fetal-Health-Prediction-Using-Fuzzy-Logic
-`
+
+`cd Fetal-Health-Prediction-Using-Fuzzy-Logic`
 
 ### Install the required libraries:
 

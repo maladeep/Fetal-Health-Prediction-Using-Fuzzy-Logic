@@ -1,6 +1,10 @@
 # Fetal-Health-Prediction-Using-Fuzzy-Logic
 Optimizing Fetal Health Prediction Using Fuzzy Logic: A Comprehensive Examination of Triangular and Gaussian Membership Functions
 
+
+<img src="control.gif" />
+
+
 ## Requirements
 
 Make sure you have the following libraries installed:

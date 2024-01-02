@@ -20,16 +20,13 @@ Make sure you have the following libraries installed:
 To replicate the study and run the fuzzy logic system:
 
 ### Clone the repository:
-`git clone https://github.com/maladeep/Fetal-Health-Prediction-Using-Fuzzy-Logic.git
-cd Fetal-Health-Prediction-Using-Fuzzy-Logic
+`git clone https://github.com/maladeep/Fetal-Health-Prediction-Using-Fuzzy-Logic.git`
+`cd Fetal-Health-Prediction-Using-Fuzzy-Logic
 `
 
 ### Install the required libraries:
 
 `pip install -r requirements.txt`
-
-### Run the main script: 
-`python main.py`
 
 
 ## Contributing
